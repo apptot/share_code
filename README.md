@@ -10,16 +10,14 @@
 
 ### UI/UX Design
 
+![alt text](https://github.com/apptot/share_code/blob/master/design/ds1.jpg "Logo Title Text 1")
 
+![alt text](https://github.com/apptot/share_code/blob/master/design/ds2.jpg "Logo Title Text 1")
 
-![alt text](D:\Tut-resource\share_code_github\design\ds1.jpg "Logo Title Text 1")
+![alt text](https://github.com/apptot/share_code/blob/master/design/ds3.jpg "Logo Title Text 1")
 
-![alt text](D:\Tut-resource\share_code_github\design\ds2.jpg "Logo Title Text 1")
+![alt text](https://github.com/apptot/share_code/blob/master/design/ds4.jpg "Logo Title Text 1")
 
-![alt text](D:\Tut-resource\share_code_github\design\ds3.jpg "Logo Title Text 1")
+![alt text](https://github.com/apptot/share_code/blob/master/design/ds5.jpg "Logo Title Text 1")
 
-![alt text](D:\Tut-resource\share_code_github\design\ds4.jpg "Logo Title Text 1")
-
-![alt text](D:\Tut-resource\share_code_github\design\ds5.jpg "Logo Title Text 1")
-
-![alt text](D:\Tut-resource\share_code_github\design\ds6.jpg "Logo Title Text 1")
+![alt text](https://github.com/apptot/share_code/blob/master/design/ds6.jpg "Logo Title Text 1")
